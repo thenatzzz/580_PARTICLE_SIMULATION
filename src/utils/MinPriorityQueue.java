@@ -3,6 +3,7 @@ package utils;
 import java.util.Collections;
 import java.util.ArrayList;
 
+########## NOTE: NEED TO FIX INDEX OF MIN_PQ #######################
 public class MinPriorityQueue<T extends Comparable<T>> {
 
     ArrayList<T> minPQ_array;
